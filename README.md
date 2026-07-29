@@ -124,7 +124,7 @@ Core CS       → DSA, OOP, OS, DBMS, System Design
 |---|---|---|---|
 | **Fintech Olympiad** | India FinTech Forum | Aug 2024 | Host & Organizer of regional round with 1600+ registrations (maximum across India) |
 | **Smart India Hackathon** | Ministry of Education | 2024 | Led team of 5 for EV Rental Platform with IoT integrations |
-| **Academic Excellence** | KIIT University | 2025 | Consistent CGPA: 7.35 |
+| **Academic Excellence** | KIIT University | 2026 | Consistent CGPA: 7.68 |
 | **Content Writing** | KIIT ELABS | 2024 | Official communications & Instagram management |
 | **12th Board Exam** | CBSE | 2021 | 91.8% (Physics, Chemistry, Maths) |
 | **10th Board Exam** | CBSE | 2019 | 95% |
