@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year B.Tech CSE student** at **KIIT University** (Bhubaneswar) with a passion for building intelligent, full-stack applications. I lead teams, solve complex problems, and turn innovative ideas into real-world products.
+I'm a **B.Tech CSE graduate** from **KIIT University** (Bhubaneswar) with a passion for building intelligent, full-stack applications. I have got a knack to solve complex problems, and turn innovative ideas into real-world products.
 
-- 🎓 **KIIT University** | B.Tech CSE (2022–2026) | CGPA: 7.35
+- 🎓 **KIIT University** | B.Tech CSE (2022–2026) | CGPA: 7.68
 - 🏆 **Smart India Hackathon 2024** – Project Lead for EV Rental Platform
 - 📊 **Fintech Olympiad 2024** – Host & Organizer for Regional Round at KIIT (1600+ registrations across India)
 - 💼 **Head of Collaboration & Workflow** – XFRUS Startup (Dec 2024 – Mar 2025)
@@ -29,11 +29,11 @@ I'm a **final-year B.Tech CSE student** at **KIIT University** (Bhubaneswar) wit
 ## 🛠️ Technical Skills
 
 ```
-Languages     → C++, Python, SQL, JavaScript
+Languages     → C++, Python, SQL, JavaScript, Typescript
 Frontend      → HTML5, CSS3, React, Responsive Design
 Backend       → Node.js, REST APIs, Flask/FastAPI
-AI/ML         → NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib
-Databases     → MySQL, MongoDB, Firebase
+AI/ML         → NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, n8n
+Databases     → MySQL, MongoDB, Firebase, PostgreSQL
 DevOps/Tools  → Git, GitHub, VS Code, Linux, Postman, Docker (basics)
 Core CS       → DSA, OOP, OS, DBMS, System Design
 ```
@@ -103,7 +103,7 @@ Core CS       → DSA, OOP, OS, DBMS, System Design
 
 **Kalinga Institute of Industrial Technology (KIIT)**
 - Bachelor of Technology in Computer Science & Engineering
-- Graduation: 2026 | CGPA: 7.35 | Bhubaneswar, Odisha
+- Graduation: MAY 2026 | CGPA: 7.35 | Bhubaneswar, Odisha
 
 **Relevant Coursework:**
 ```
