@@ -103,7 +103,7 @@ Core CS       → DSA, OOP, OS, DBMS, System Design
 
 **Kalinga Institute of Industrial Technology (KIIT)**
 - Bachelor of Technology in Computer Science & Engineering
-- Graduation: MAY 2026 | CGPA: 7.35 | Bhubaneswar, Odisha
+- Graduation: MAY 2026 | CGPA: 7.68 | Bhubaneswar, Odisha
 
 **Relevant Coursework:**
 ```
